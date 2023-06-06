@@ -3,6 +3,8 @@
 This discord bot will personally DM and scold you if you address someone with respect.
 For ex. "<NAME> sir", "<NAME> bhaiya" etc.
 
+![](./demo/discord-bot.gif)
+
 ---
 
 1. Discord developer [portal](https://discord.com/developers/applications) and login
